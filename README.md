@@ -50,7 +50,7 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
-![Debian Server](https://img.shields.io/badge/Debian_Server-A81D33?style=flat-square&logo=debian&logoColor=white)
+![Red Hat Server](https://img.shields.io/badge/Red_Hat_Server-EE0000?style=flat-square&logo=redhat&logoColor=white)
 
 ### Systems & networking
 
