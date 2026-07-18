@@ -53,13 +53,14 @@
 ![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
 ![Red Hat Server](https://img.shields.io/badge/Red_Hat_Server-EE0000?style=flat-square&logo=redhat&logoColor=white)
 
-### Desktop & game development
+### Software development
 
+![C](https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=000000)
+![MIPS Assembly](https://img.shields.io/badge/MIPS_Assembly-555555?style=flat-square&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-5382A1?style=flat-square&logo=openjdk&logoColor=white)
-![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
-![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![Pygame](https://img.shields.io/badge/Pygame-3776AB?style=flat-square&logo=pygame&logoColor=white)
+![Gradle](https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white)
 
 ### Web3
 
@@ -73,7 +74,10 @@
 ### Tooling & testing
 
 ![ESLint](https://img.shields.io/badge/ESLint-4B32C3?style=flat-square&logo=eslint&logoColor=white)
+![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=flat-square&logo=playwright&logoColor=white)
+![JUnit 5](https://img.shields.io/badge/JUnit_5-25A162?style=flat-square&logo=junit5&logoColor=white)
 ![KSP](https://img.shields.io/badge/KSP-7F52FF?style=flat-square&logo=kotlin&logoColor=white)
 ![JaCoCo](https://img.shields.io/badge/JaCoCo-CB2029?style=flat-square&logo=java&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
