@@ -45,6 +45,24 @@
 ![Protocol Buffers](https://img.shields.io/badge/Protocol_Buffers-4285F4?style=flat-square&logo=protobuf&logoColor=white)
 ![SGP4](https://img.shields.io/badge/SGP4-3776AB?style=flat-square&logo=python&logoColor=white)
 
+### DevOps & cloud
+
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/AWS_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white)
+![Debian Server](https://img.shields.io/badge/Debian_Server-A81D33?style=flat-square&logo=debian&logoColor=white)
+
+### Systems & networking
+
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=flat-square&logo=windows11&logoColor=white)
+![Active Directory](https://img.shields.io/badge/Active_Directory-0078D4?style=flat-square&logo=microsoft&logoColor=white)
+![LDAP](https://img.shields.io/badge/LDAP-3A3A3A?style=flat-square&logoColor=white)
+![Cisco Networking](https://img.shields.io/badge/Cisco_Networking-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![Packet Tracer](https://img.shields.io/badge/Packet_Tracer-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![TCP/IP](https://img.shields.io/badge/TCP%2FIP-005571?style=flat-square&logoColor=white)
+![Routing & Switching](https://img.shields.io/badge/Routing_%26_Switching-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![CCNA Coursework](https://img.shields.io/badge/CCNA-Coursework-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+
 ### Desktop & game development
 
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
